@@ -1,3 +1,9 @@
+* The first folder in this project contains the chrome extension of AI email writer or email reply generator, it generates automated replies for gmail through chrome extension, it creates AI reply button along with send reply button already present in gmail.
+  
+* The second folder contains the Java SpringBoot backend which uses Gemini flash ai(Google studio API key) to create an automated reply which then displayed through chrome extension and React Frontend.
+
+* The other Files including the react folder files are used for react app which displays customized email reply generator webapp.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
